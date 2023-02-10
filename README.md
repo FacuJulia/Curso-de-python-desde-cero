@@ -2,6 +2,10 @@
 
 FreeCodeCamp Course
 
+https://www.freecodecamp.org/espanol/news/aprende-a-programar-en-python-desde-cero-curso-completo-gratis/
+
+![](https://github.com/FacuJulia/Curso-de-python-desde-cero/blob/main/image/Python.png)
+
 ## 🔹 Descripción Detallada de los Temas del Curso
 
 Aquí puedes encontrar una lista con el detalle de los temas incluidos en el curso.
